@@ -26,8 +26,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eddybruv&show_icons=true&locale=en&layout=compact" alt="eddybruv" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eddybruv&show_icons=true&locale=en" alt="eddybruv" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eddybruv&hide_border=true&count_private=true&theme=tokyonight)](https://github.com/eddybruv/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eddybruv&" alt="eddybruv" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eddybruv&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&locale=en" alt="eddybruv" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eddybruv&hide_border=true&count_private=true&theme=tokyonight" alt="eddybruv" /></p>
