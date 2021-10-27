@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Edwin B. Ajong</h1>
-<h3 align="center">A Copmuter Engineering Student, An aspiring Software dev.</h3>
+<h3 align="center">A Computer Engineering Student, And a Software dev.</h3>
 
 <p align="left"> <a href="https://twitter.com/eddybruv_" target="blank"><img src="https://img.shields.io/twitter/follow/eddybruv_?logo=twitter&style=for-the-badge" alt="eddybruv_" /></a> </p>
 
@@ -31,3 +31,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eddybruv&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&locale=en" alt="eddybruv" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eddybruv&hide_border=true&count_private=true&theme=tokyonight" alt="eddybruv" /></p>
