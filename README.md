@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **nothing actually,for now**
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **Data Structures and Algorithms, C and Web Dev**
 
-- 💬 Ask me about **C**
+- 💬 Ask me about **C, DSA and music**
 
 - 📫 How to reach me **edwinajong@gmail.com**
 
-- ⚡ Fun fact **Colons are look better**
+- ⚡ Fun fact **I talk a lot if I'm comfortable around you.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
