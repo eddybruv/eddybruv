@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/eddybruv_" target="blank"><img src="https://img.shields.io/twitter/follow/eddybruv_?logo=twitter&style=for-the-badge" alt="eddybruv_" /></a> </p>
 
-- 🔭 I’m currently working on **nothing actually,for now**
+- 🔭 I’m currently working on **my skills in web dev**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, C and Web Dev**
 
