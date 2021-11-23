@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **my dreams and aspirations**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms, C and Web Dev**
+- 🌱 I’m currently learning **Data Structures and Algorithms, C and JavaScript**
 
 - 💬 Ask me about **C, DSA and music**
 
