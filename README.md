@@ -29,5 +29,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eddybruv&hide_border=true&count_private=true&theme=tokyonight)](https://github.com/eddybruv/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eddybruv&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&locale=en" alt="eddybruv" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eddybruv&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&locale=en" alt="eddybruv" /> </p>
 
