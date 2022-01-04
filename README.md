@@ -1,7 +1,10 @@
+<img src= "https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="header pic">
 <h1 align="center">Hi 👋, I'm Edwin B. Ajong</h1>
 <!-- <h3 align="center">A Computer Engineering Student, And a Software dev.</h3> -->
 
 <p align="left"> <a href="https://twitter.com/eddybruv_" target="blank"><img src="https://img.shields.io/twitter/follow/eddybruv_?logo=twitter&style=for-the-badge" alt="eddybruv_" /></a> </p>
+
+<p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"><img alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" style="max-width: 100%;" width="55%" align="right"></a></p>
 
 - 🔭 I’m currently working on **my dreams and aspirations**
 
@@ -11,7 +14,7 @@
 
 - 📫 How to reach me **edwinajong@gmail.com**
 
-- ⚡ Fun fact **I talk a lot if I'm comfortable around you.**
+- ⚡ Fun fact **I talk a lot if I'm comfortable around you.** 😄
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,7 +31,10 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eddybruv&hide_border=true&count_private=true&theme=tokyonight)](https://github.com/eddybruv/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eddybruv&theme=radical&layout=compact&border_color=c2b20d&border_radius=4%&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eddybruv&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&locale=en" alt="eddybruv" /></p>
+[![Eddy's GitHub stats](https://github-readme-stats.vercel.app/api?username=eddybruv&count_private=true&show_icons=true&theme=radical&border_color=c2b20d&border_radius=3%)](https://github.com/anuraghazra/github-readme-stats)
 
+
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eddybruv&theme=radical&border_color=c2b20d&border_radius=3%)](https://github.com/anuraghazra/github-readme-stats)
