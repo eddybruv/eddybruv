@@ -38,3 +38,5 @@
 
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eddybruv&theme=radical&border_color=c2b20d&border_radius=3%)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eddybruv&theme=radical&hide_border=true&format=[Y.]n.j)](https://git.io/streak-stats)
