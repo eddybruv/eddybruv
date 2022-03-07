@@ -44,9 +44,9 @@
     <img src="https://github-readme-stats.vercel.app/api?username=eddybruv&count_private=true&show_icons=true&theme=gotham&hide_border=true">
 </a>
 
-<a href="ttps://github.com/anuraghazra/github-readme-stats" >
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats" >
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=eddybruv&theme=gotham&hide_border=true&line_height=30" /> 
-</a>
+</a> -->
 <a href="https://git.io/streak-stats">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eddybruv&theme=gotham&hide_border=true&format=[Y.]n.j"/>
 </a>
