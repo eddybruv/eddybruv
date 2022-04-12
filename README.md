@@ -68,9 +68,9 @@
 <div style="display:flex; justify-content:center; padding: 1rem; gap: 1rem;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
             <img src="https://github-readme-stats.vercel.app/api?username=eddybruv&count_private=true&show_icons=true&theme=gotham&hide_border=true">
-    <a href="https://git.io/streak-stats">
-        <img  src="https://github-readme-streak-stats.herokuapp.com/?user=eddybruv&theme=gotham&hide_border=true&format=[Y.]n.j"/>
-    </a>
+    <!-- <a href="https://git.io/streak-stats">
+        <img  src="https://github-readme-streak-stats.herokuapp.com/?user=eddybruv&theme=gotham&hide_border=true&format=[Y.]n.j&count_private=true"/>
+    </a> -->
 </div>
 
 [![Eddy's github activity graph](https://activity-graph.herokuapp.com/graph?username=eddybruv&theme=gotham&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
