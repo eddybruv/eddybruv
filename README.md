@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **[WakaLie](https://github.com/eddybruv/WakaLie)**
 
-- 🌱 I’m currently learning **React, MongoDb, Node, Express and C**
+- 🌱 I’m currently learning **React, MongoDb, Node, Express and Python/Django**
 
 - 👀Seeking intership roles in **Full Stack Web Development** 
 
