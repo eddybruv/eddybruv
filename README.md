@@ -6,14 +6,14 @@
 
 <p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"><img alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" style="max-width: 100%;" width="55%" align="right"></a></p>
 
-- 🔭 I’m currently working on **personal projects**
+- 🔭 I’m currently working on **[WakaLie](https://github.com/eddybruv/WakaLie)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms, C and JavaScript**
+- 🌱 I’m currently learning **React, MongoDb, Node, Express and C**
 
-- 👀Seeking intership roles in **backend development** 
+- 👀Seeking intership roles in **Full Stack Web Development** 
 
 
-- 💬 Ask me about **C, DSA and music**
+- 💬 Ask me about **C, JavaScript and music**
 
 - 📫 How to reach me **edwinajong@gmail.com**
 
