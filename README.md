@@ -4,7 +4,8 @@
 
 <p align="left"> <a href="https://twitter.com/eddybruv_" target="blank"><img src="https://img.shields.io/twitter/follow/eddybruv_?logo=twitter&style=for-the-badge" alt="eddybruv_" /></a> </p>
 
-<p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"><img alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" style="max-width: 100%;" width="55%" align="right"></a></p>
+
+<p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"><img alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" style="max-width: 100%;" width="55%" align="right"></a>  </p>
 
 - 🔭 I’m currently working on **[WakaLie](https://github.com/eddybruv/WakaLie)**
 
@@ -75,4 +76,6 @@
 
 [![Eddy's github activity graph](https://activity-graph.herokuapp.com/graph?username=eddybruv&theme=gotham&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<img align="right" src="https://www.codewars.com/users/eddybruv/badges/large"/>    
+    
 ![](https://komarev.com/ghpvc/?username=eddybruv&color=29a788)
