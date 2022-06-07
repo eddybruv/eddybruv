@@ -7,7 +7,7 @@
 
 <p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"><img alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" style="max-width: 100%;" width="55%" align="right"></a>  </p>
 
-- 🔭 I’m currently working on **[WakaLie](https://github.com/eddybruv/WakaLie)**
+- 🔭 I’m currently working on **[ReadIT](https://github.com/eddybruv/ReadIT)**
 
 - 🌱 I’m currently learning **React, MongoDb, Node, Express and Python/Django**
 
