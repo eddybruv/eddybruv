@@ -55,27 +55,15 @@
 
 <!-- <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p> -->
 
+<h2 style="text-align: center">WHAT I HAVE BEEN DOING THIS WEEK IN THE WORLD OF CODING</h2>
+<hr/>
 
+<img  align="center" width="50%" src="https://wakatime.com/share/@eddybruv/dc60d458-ae60-420a-a273-b386961380db.svg" /><img  width="50%" align="center" src="https://wakatime.com/share/@eddybruv/f73bb7b0-e35a-4a5e-932e-c3b060fac659.svg" />
 
-<div style="display:flex; justify-content:center; padding: 1rem; gap: 1rem;">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddybruv&theme=gotham&layout=compact&hide_border=true&langs_count=6">
-    </a>
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" >
-        <img height="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=eddybruv&theme=gotham&hide_border=true&line_height=24" /> 
-    </a>
-</div>
-<div style="display:flex; justify-content:center; padding: 1rem; gap: 1rem;">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api?username=eddybruv&count_private=true&show_icons=true&theme=gotham&hide_border=true">
-    <!-- <a href="https://git.io/streak-stats">
-        <img  src="https://github-readme-streak-stats.herokuapp.com/?user=eddybruv&theme=gotham&hide_border=true&format=[Y.]n.j&count_private=true"/>
-    </a> -->
-</div>
+<img  align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=eddybruv&count_private=true&show_icons=true&theme=gotham&hide_border=true" alt="readme stats"/><img  src="https://github-readme-streak-stats.herokuapp.com/?user=eddybruv&theme=gotham&hide_border=true&format=[Y.]n.j&count_private=true"  align="center" width="49%" style="margin-left:1rem" alt="stats"/>
 
 [![Eddy's github activity graph](https://activity-graph.herokuapp.com/graph?username=eddybruv&theme=gotham&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<img align="right" src="https://www.codewars.com/users/eddybruv/badges/large"/>    
+<img align="right" src="https://www.codewars.com/users/eddybruv/badges/large" alt="badge"/>    
     
 ![](https://komarev.com/ghpvc/?username=eddybruv&color=29a788)
