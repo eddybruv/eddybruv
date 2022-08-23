@@ -7,32 +7,17 @@
 
 <p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"><img alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" style="max-width: 100%;" width="55%" align="right"></a>  </p>
 
-- 🔭 I’m currently working on **[ReadIT](https://github.com/eddybruv/ReadIT)**
+- 🔭 I’m currently working on **[Wait4U](https://github.com/eddybruv/Wait4U)**
 
-- 🌱 I’m currently learning **React, MongoDb, Node, Express and Python/Django**
+- 🌱 I’m currently learning **React Native and TypeScript**
 
-- 👀Seeking intership roles in **Full Stack Web Development** 
-
-
-- 💬 Ask me about **C, JavaScript and music**
+- 💬 Ask me about **Front/Back End Web Development**
 
 - 📫 How to reach me **edwinajong@gmail.com**
 
 - ⚡ Fun fact **I talk a lot if I'm comfortable around you.** 😄
 
-</br>
-
-# CONNECT WITH ME
-
-![[Twitter](https://twitter.com/eddybruv_)](https://img.shields.io/badge/eddybruv-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![Instagram](https://img.shields.io/badge/eddybruv-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-
 </p>
-
-</br>
 
 # TECH | TOOLS | STATS
 
@@ -48,14 +33,14 @@
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<!-- <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p> -->
-
-<h2 style="text-align: center">WHAT I HAVE BEEN DOING THIS WEEK IN THE WORLD OF CODING</h2>
+<h2 align="center">WHAT I HAVE BEEN DOING THIS WEEK IN THE WORLD OF CODING</h2>
 <hr/>
 
 <img  align="center" width="50%" src="https://wakatime.com/share/@eddybruv/dc60d458-ae60-420a-a273-b386961380db.svg" /><img  width="50%" align="center" src="https://wakatime.com/share/@eddybruv/f73bb7b0-e35a-4a5e-932e-c3b060fac659.svg" />
@@ -67,3 +52,5 @@
 <img align="right" src="https://www.codewars.com/users/eddybruv/badges/large" alt="badge"/>    
     
 ![](https://komarev.com/ghpvc/?username=eddybruv&color=29a788)
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=3132wyqmeegfgmbbyzhuma4c4yta)
