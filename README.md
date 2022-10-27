@@ -53,4 +53,4 @@
     
 ![](https://komarev.com/ghpvc/?username=eddybruv&color=29a788)
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=3132wyqmeegfgmbbyzhuma4c4yta)
+<!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=3132wyqmeegfgmbbyzhuma4c4yta) -->
