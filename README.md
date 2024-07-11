@@ -1,15 +1,14 @@
 <img src= "https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="header pic">
 <h1 align="center">Hi 👋, I'm Edwin B. Ajong</h1>
-<!-- <h3 align="center">A Computer Engineering Student, And a Software dev.</h3> -->
 
 <p align="left"> <a href="https://twitter.com/eddybruv_" target="blank"><img src="https://img.shields.io/twitter/follow/eddybruv_?logo=twitter&style=for-the-badge" alt="eddybruv_" /></a> </p>
 
 
 <p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"><img alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" style="max-width: 100%;" width="55%" align="right"></a>  </p>
 
-- 🔭 I’m currently working on **[Wait4U](https://github.com/eddybruv/Wait4U)**
+- 🔭 I’m currently work @TMO-US
 
-- 🌱 I’m currently learning **React Native and TypeScript**
+- 🌱 I currently work with React and TypeScript
 
 - 💬 Ask me about **Front/Back End Web Development**
 
@@ -18,10 +17,10 @@
 - ⚡ Fun fact **I talk a lot if I'm comfortable around you.** 😄
 
 </p>
-
+<!-- 
 # TECH | TOOLS | STATS
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+<!-- ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
